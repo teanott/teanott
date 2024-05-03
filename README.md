@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teanott or just Tim
-- 👀 I’m interested in the applications of Data Science tools in the Social Science spheres to derive meaningful insights for policy making.
+- 👀 I’m interested in the applications of Data Science tools in the Social Science spheres to derive meaningful insights for policy making
 - 🌱 I’m currently engaged in the process of furthering my knowledge in the Data Science field
 - 📫 How to reach me: temirlan.utegulov@gmail.com
 - 😄 Pronouns: he/him
